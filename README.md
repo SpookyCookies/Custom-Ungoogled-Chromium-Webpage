@@ -15,5 +15,4 @@ How to setup:
 12. It will ask you Relaunch click the relaunch button
 13. And open a new tab and say hello world! to your beautiful new homepage or tab page or whatever
 14. Type in the text field and click submit for a special prize!
-15. 
-16. 
+
